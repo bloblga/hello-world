@@ -1,2 +1,5 @@
 # hello-world
-Hello World description 
+
+Dear diary,
+
+Today OP was a pretty good guy.
